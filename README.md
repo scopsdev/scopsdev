@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://demo.scops.dev"><img src="https://scops.dev/assets/img/gallery/gal-2-overview.jpg" alt="Scops overview" width="900"></a>
+  <a href="https://demo.scops.dev"><img src="assets/activity.gif" alt="Activity by wait class with Radar Engine findings, live" width="900"></a>
 </p>
 
 ## Why DBAs choose Scops
@@ -31,6 +31,12 @@
 **Scops AI.** The most advanced AI assistant for Oracle, with 40+ agentic tools. It actually thinks and acts like a DBA.
 
 **Automation, Archiving & Compression.** Statistics, datafiles, compression and archiving handled from one place.
+
+## See it in action
+
+<p align="center">
+  <a href="https://scops.dev/assets/video/scops-launch.mp4"><img src="assets/film.jpg" alt="Watch Scops at work, about a minute" width="900"></a>
+</p>
 
 ## Get started
 
