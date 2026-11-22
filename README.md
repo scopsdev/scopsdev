@@ -5,8 +5,8 @@
 <h1 align="center">Scops</h1>
 
 <p align="center">
-  <b>The most capable Oracle monitoring platform.</b><br>
-  The next-gen Oracle monitoring platform that thinks and acts like a DBA.
+  <b>Intelligence for your databases.</b><br>
+  The next-gen monitoring platform for Oracle, SQL Server and PostgreSQL, with MySQL and MongoDB coming soon.
 </p>
 
 <p align="center">
@@ -22,15 +22,15 @@
 
 ## Why DBAs choose Scops
 
-**Agentless.** One read-only Oracle account through the listener. Nothing is installed on the database servers.
+**Agentless.** One read-only account per database or instance. Nothing is installed on the database servers.
 
-**No Oracle Pack required.** Session history, top SQL and plan changes without the Diagnostics or Tuning Pack, on Enterprise Edition and Standard Edition 2 alike.
+**No Oracle Pack required.** On Oracle, session history, top SQL and plan changes come without the Diagnostics or Tuning Pack, on Enterprise Edition and Standard Edition 2 alike.
 
-**Radar Engine.** 75+ detectors catch the problems that are hardest to see coming, before they turn into incidents. It is also the most powerful way to find the root cause of the ones that already happened.
+**Radar Engine.** 130+ detectors catch the problems that are hardest to see coming, before they turn into incidents. It is also the most powerful way to find the root cause of the ones that already happened.
 
-**Scops AI.** The most advanced AI assistant for Oracle, with 40+ agentic tools. It actually thinks and acts like a DBA.
+**Scops AI.** Equipped with 40+ agentic tools to think and act like a DBA.
 
-**Automation, Archiving & Compression.** Statistics, datafiles, compression and archiving handled from one place.
+**Automation, Archiving & Compression for Oracle.** Statistics, datafiles, compression and archiving handled from one place.
 
 ## See it in action
 
